@@ -1,2 +1,2 @@
-# Coffee Cab
-E-commerce template website, currently configured for specialty coffee deliveries
+
+E-commerce website, currently configured for specialty coffee deliveries
